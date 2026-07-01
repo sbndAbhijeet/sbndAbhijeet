@@ -74,14 +74,6 @@ Attributes:
 
 ---
 
-### 💬 Daily Dev Quote / Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hide_border=true" alt="Jokes Card" />
-</p>
-
----
-
 ### 🔮 Summon Abhijeet
 
 - ✉️ **Send an Owl**: [sbndabhijeet@gmail.com](mailto:sbndabhijeet@gmail.com)
