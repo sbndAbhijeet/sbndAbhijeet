@@ -1,6 +1,10 @@
 # Sapparapu Abhijeet
 
 <p align="center">
+  <img src="developer_banner.png" alt="Developer Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="typing.svg" alt="Sapparapu Abhijeet Typing Effect" width="600" />
 </p>
 
