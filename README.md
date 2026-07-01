@@ -10,19 +10,27 @@
 
 ---
 
-### 🎭 Character Sheet: Sapparapu Abhijeet
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="30%">
+      <img src="https://github.com/sbndAbhijeet.png" width="150px" style="border-radius: 50%;" alt="Sapparapu Abhijeet" />
+      <br />
+      <sub><b>Level 21 • B.Tech CSE Mage</b></sub>
+    </td>
+    <td valign="top" width="70%">
+      <h3>🎭 Character Sheet</h3>
+      <ul>
+        <li>💼 <b>Class:</b> Full-Stack Developer &amp; RAG Engineer</li>
+        <li>🏰 <b>Guild:</b> Software Engineering Intern at <b>WETEC Systems GmbH</b></li>
+        <li>⚔️ <b>Attack:</b> <code>FastAPI</code> • <code>React.js</code> • <code>Django</code> • <code>Python</code> • <code>JavaScript</code> • <code>Java</code></li>
+        <li>🛡️ <b>Defense:</b> <code>Docker</code> • <code>Git</code> • <code>MySQL</code> • <code>MongoDB</code> • <code>SQLite</code></li>
+        <li>✨ <b>Spellbook:</b> <code>LangChain</code> • <code>LangGraph</code> • <code>Qdrant Vector DB</code> • <code>RAG Pipelines</code></li>
+        <li>🏆 <b>Trophies:</b> Infosys HackWithInfy L1 Specialist • 400+ LeetCode Battles won</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-```yaml
-Class: Full-Stack Developer & RAG Mage 🧙‍♂️
-Level: 21 (B.Tech CSE @ IIIT Vadodara)
-Guild: WETEC Systems GmbH (Intern)
-
-Attributes:
-  ⚔️ Attack (Languages & Frameworks): Python, JavaScript, Java, Django, FastAPI, React.js
-  🛡️ Defense (Databases & Tools): Docker, Git, MySQL, MongoDB, SQLite
-  ✨ Spellbook (Specialties): LangChain, LangGraph, Qdrant Vector DB, RAG Pipelines
-  🏆 Achievements: Infosys HackWithInfy L1 Specialist, 400+ LeetCode Battles Won
-```
 
 ---
 
