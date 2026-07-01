@@ -1,8 +1,5 @@
 # Sapparapu Abhijeet
 
-<p align="center">
-  <img src="developer_banner.png" alt="Developer Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="typing.svg" alt="Sapparapu Abhijeet Typing Effect" width="600" />
@@ -32,11 +29,6 @@
 
 - 🏹 **Active Main Quest**:
   - Exploring AI-assisted workflows and Model Context Protocol (MCP) integrations at WETEC Systems GmbH.
-- 🏆 **Completed Side Quests**:
-  - [x] **Spellcraft (Lumin/ChatMe)**: Built an intelligent dual-agent chat assistant using LangGraph for stateful workflow routing and tool invocation.
-  - [x] **Divination (WebQuery)**: Created a Chromium extension for real-time document search, loading pages dynamically into a Qdrant vector database.
-  - [x] **Academy (Course Registrar)**: Designed a full-stack student platform with Django, featuring automated notifications and branch-based filters.
-  - [x] **Arena (LeetCode)**: Overcame 400+ algorithmic puzzles, achieving a peak battle rating of 1563.
 
 ---
 
