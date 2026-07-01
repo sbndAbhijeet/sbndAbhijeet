@@ -10,26 +10,16 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="middle" width="30%">
-      <img src="https://github.com/sbndAbhijeet.png" width="150px" style="border-radius: 50%;" alt="Sapparapu Abhijeet" />
-      <br />
-      <sub><b>Level 21 • B.Tech CSE Mage</b></sub>
-    </td>
-    <td valign="top" width="70%">
-      <h3>🎭 Character Sheet</h3>
-      <ul>
-        <li>💼 <b>Class:</b> Full-Stack Developer &amp; RAG Engineer</li>
-        <li>🏰 <b>Guild:</b> Software Engineering Intern at <b>WETEC Systems GmbH</b></li>
-        <li>⚔️ <b>Attack:</b> <code>FastAPI</code> • <code>React.js</code> • <code>Django</code> • <code>Python</code> • <code>JavaScript</code> • <code>Java</code></li>
-        <li>🛡️ <b>Defense:</b> <code>Docker</code> • <code>Git</code> • <code>MySQL</code> • <code>MongoDB</code> • <code>SQLite</code></li>
-        <li>✨ <b>Spellbook:</b> <code>LangChain</code> • <code>LangGraph</code> • <code>Qdrant Vector DB</code> • <code>RAG Pipelines</code></li>
-        <li>🏆 <b>Trophies:</b> Infosys HackWithInfy L1 Specialist • 400+ LeetCode Battles won</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🎭 Character Sheet: Sapparapu Abhijeet
+
+> 💼 **Class:** Full-Stack Developer & RAG Mage 🧙‍♂️
+> 🏰 **Guild:** Software Engineering Intern at **[WETEC Systems GmbH](https://github.com/sbndAbhijeet)**
+>
+> ⚔️ **Attack (Languages/Frameworks):** `FastAPI` • `React.js` • `Django` • `Python` • `JavaScript` • `Java`
+> 🛡️ **Defense (Databases/Infrastructure):** `Docker` • `Git` • `MySQL` • `MongoDB` • `SQLite`
+> ✨ **Spellbook (AI/RAG):** `LangChain` • `LangGraph` • `Qdrant Vector DB` • `RAG Pipelines`
+> 🏆 **Trophies (Credentials):** Infosys HackWithInfy L1 Specialist • 400+ LeetCode Battles won
+
 
 
 ---
@@ -64,19 +54,19 @@
 
 ---
 
-### 📊 Trophy Room & Live Stats
+### 📊 Dev Activity & Live Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbndAbhijeet&theme=radical&no-bg=true&no-frame=true" alt="Abhijeet's Trophies" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbndAbhijeet&theme=radical&bg_color=0d1117&hide_border=true" alt="Abhijeet's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Bhanu_546?theme=radical&font=Fira%20Code" alt="Abhijeet's LeetCode Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sbndAbhijeet&show_icons=true&theme=radical&hide_border=true" alt="Abhijeet's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sbndAbhijeet&show_icons=true&theme=radical&hide_border=true" alt="Abhijeet's GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbndAbhijeet&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sbndAbhijeet&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbndAbhijeet&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
