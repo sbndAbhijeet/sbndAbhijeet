@@ -45,7 +45,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/sbndAbhijeet/matrix-selfhost/pull/4) in [sbndAbhijeet/matrix-selfhost](https://github.com/sbndAbhijeet/matrix-selfhost)
+1. 🎉 Merged PR [#12](https://github.com/sbndAbhijeet/matrix-selfhost/pull/12) in [sbndAbhijeet/matrix-selfhost](https://github.com/sbndAbhijeet/matrix-selfhost)
 <!--END_SECTION:activity-->
 
 ---
