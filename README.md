@@ -45,7 +45,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-*Activity feed will be automatically populated here by GitHub Actions once pushed.*
+1. 💪 Opened PR [#4](https://github.com/sbndAbhijeet/matrix-selfhost/pull/4) in [sbndAbhijeet/matrix-selfhost](https://github.com/sbndAbhijeet/matrix-selfhost)
 <!--END_SECTION:activity-->
 
 ---
